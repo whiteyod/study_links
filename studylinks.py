@@ -8,7 +8,7 @@ import random as rand
 
 
 
-bot = Bot(token="1555033388:AAEbf1sTNZdp-JuhhiKFmOjE_4bLkKHLEks")
+bot = Bot(token="155LkKHLEks")
 
 dp = Dispatcher(bot)
 
